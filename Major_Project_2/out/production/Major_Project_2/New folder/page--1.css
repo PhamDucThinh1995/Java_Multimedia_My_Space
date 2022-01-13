@@ -1,0 +1,33 @@
+B { color: #568659; }
+BODY { background-color: #002200; }
+CODE { color: #606060; }
+LI { list-style-type: disc; }
+P { color: #009900; }
+TD { color: #009900; }
+
+A {
+ text-decoration: none;
+ color: #4858A8;
+}
+
+A:hover {
+ text-decoration: none;
+ color: #96A0D2;
+}
+
+CITE {
+ font-style: normal;
+ color: #0000A0;
+}
+
+APPLET {
+ padding: 0px;
+ margin: 0px;
+ border: 0px;
+}
+
+.appletFrame {
+ background-color: #CCCCCC;
+ border: 1px solid #888888;
+ box-shadow: 2px 2px #BBBBBB;
+}
